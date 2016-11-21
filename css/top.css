@@ -1,8 +1,9 @@
 /* CSS Document */
-.top{ background:#999; height:400px; }
+.top{ background:#999; height:360px; }
 
-.main_menu{ height:50px; background:#0F0; }
-.main_menu ul{display:block;}
-.main_menu ul li{ float:left; margin:0px 108px; display:block; color:#FFF; font-size:11.5px}
+.main_menu{ height:80px;  }
+.menu_item{ margin:31px ; position:absolute; left:2px; right:2px}
+.menu_item span{ margin:0px 106px; color:#FFF; font-size:11.5px;  text-align:center; }
+.menu_item span a{ color:#FFF; text-shadow:1px 1px 1px #0FC}
 
 
